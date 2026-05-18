@@ -1,0 +1,1 @@
+[![Minha Primeira Linha de Montagem](https://github.com/Fontelesxx/minha_primeira_linha_de_montagem/actions/workflows/linha_de_montagem.yml/badge.svg)](https://github.com/Fontelesxx/minha_primeira_linha_de_montagem/actions/workflows/linha_de_montagem.yml)
